@@ -58,9 +58,7 @@ This project analyzes a **Manufacturing Cost Breakdown dataset** to identify key
 ## 📂 Project Files
 
 * Power BI report file (`.pbix`)
-* Dashboard images for preview
-* 
-
+  
 ## 🚀 Conclusion
 
 This project demonstrates how **Power BI can be used to analyze manufacturing costs and operational metrics**, helping organizations identify inefficiencies, control expenses, and improve overall manufacturing performance.
